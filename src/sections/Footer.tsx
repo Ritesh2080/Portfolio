@@ -9,6 +9,8 @@ const Footer = () => {
         <p>Terms & Conditions</p>
         <p>|</p>
         <p>Privacy Policy</p>
+        <p>|</p>
+        <p><a href="https://youtu.be/S9UQItTpwUQ?si=hmLOanlIoy_DP4rv">Attribution</a></p>
       </div>
       <div className="flex gap-3">
         {mySocials.map((social, index) => (
