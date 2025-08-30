@@ -11,7 +11,7 @@ export const myProjects = [
       "Configured MongoDB with Mongoose for scalable and reliable data storage.",
       "Enhanced branding with custom favicon and professional UI styling.",
     ],
-    href: "",
+    href: "https://hidden-echo.vercel.app/",
     logo: "",
     image: "/assets/projects/hiddenEcho.png",
     tags: [
@@ -47,7 +47,7 @@ export const myProjects = [
       "Implemented smooth scroll-based animations using GSAP and ScrollTrigger.",
       "Integrated interactive 3D iPhone models with Three.js for a realistic experience.",
     ],
-    href: "",
+    href: "https://apple-website-two-neon.vercel.app/",
     logo: "",
     image: "/assets/projects/apple.png",
     tags: [
@@ -83,7 +83,7 @@ export const myProjects = [
       "Designed a navigation bar with Netflix branding and links for smooth navigation.",
       "Built a hero section featuring promotional content similar to Netflix's interface.",
     ],
-    href: "",
+    href: "https://htmlpreview.github.io/?https://github.com/Ritesh2080/netflix-clone/blob/Main/index.html",
     logo: "",
     image: "/assets/projects/netflix.png",
     tags: [
@@ -101,6 +101,41 @@ export const myProjects = [
         id: 3,
         name: "Javascript",
         path: "/assets/logos/javascript.svg",
+      },
+    ],
+  },
+  {
+    id: 4,
+    title: "To do list using React",
+    description:
+      "Built a basic to-do list application using React, allowing users to add, edit, and delete tasks with a simple and intuitive interface.",
+    subDescription: [
+      "Built a responsive UI optimized for desktops, tablets, and mobile devices.",
+      "Implemented Delete and Edit functionality for managing tasks.",
+    ],
+    href: "https://to-do-list-app-one-neon.vercel.app/",
+    logo: "",
+    image: "/assets/projects/to_do_list.png",
+    tags: [
+      {
+        id: 1,
+        name: "JavaScript",
+        path: "/assets/logos/javascript.svg",
+      },
+      {
+        id: 2,
+        name: "React",
+        path: "/assets/logos/react.svg",
+      },
+      {
+        id: 3,
+        name: "Vite",
+        path: "/assets/logos/vitejs.svg",
+      },
+      {
+        id: 4,
+        name: "TailwindCSS",
+        path: "/assets/logos/tailwindcss.svg",
       },
     ],
   },
